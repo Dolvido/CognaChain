@@ -1,2 +1,2 @@
-# ThoughtChain
-The "Blockchain of Thought" merges blockchain and cognitive processes, recording immutable, decentralized thoughts for enhanced collaboration, transparency, and personal growth. It fosters collective intelligence and ethical AI development by ensuring secure, traceable, and shareable cognitive data.
+# CognaChain
+This "Blockchain of Thought" merges blockchain and cognitive processes, combining the collective intelligence of humans and machines through concepts such as the point of thought, the point of cognition, and the immutable record of thoughts through time.
