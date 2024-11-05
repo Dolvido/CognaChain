@@ -1,5 +1,5 @@
 CognaChain
-CognaChain is a conceptual "proof-of-thought" blockchain designed to integrate blockchain technology with cognitive science, specifically aiming to enhance human meta-cognition in the 21st century. The goal is to convert thought processes into structured, analyzable data formats that can be interpreted, learned from, and continuously optimized. This would allow individuals to track, refine, and expand their thinking patterns over time.
+CognaChain is a conceptual "proof-of-thought" blockchain for the intelligence/learning explosion designed to integrate blockchain technology with cognitive science, specifically aiming to enhance human meta-cognition in the 21st century. The goal is to convert thought processes into structured, analyzable data formats that can be interpreted, learned from, and continuously optimized. This would allow individuals to track, refine, and expand their thinking patterns over time.
 
 CognaChain envisions a structure where human cognitive processes are digitally mapped in a time-series format, possibly creating a model of meta-cognition that captures thoughts as they evolve and interact. By labeling and tracking these thought patterns, the system can yield insights into decision-making, self-awareness, and learning processes.
 
